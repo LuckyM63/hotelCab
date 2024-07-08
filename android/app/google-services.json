@@ -1,0 +1,394 @@
+{
+  "project_info": {
+    "project_number": "456212219069",
+    "project_id": "viserlab-global-app-eaedd",
+    "storage_bucket": "viserlab-global-app-eaedd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456212219069:android:b8860552b0948ea29123d4",
+        "android_client_info": {
+          "package_name": "dev.peerbit.net"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456212219069-mhm3b5bs9nkse5oiq8m2uidncpgtqks9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwoCBGDYPzL-BWDNImb82rk3eqFCZGTNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456212219069-hamp438fc2dmrnr5au7tshiihkk6i5pl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456212219069-24em8197j4jjgdb7dblugoir0sm62tru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.xcashApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456212219069:android:efa8638c825fc6699123d4",
+        "android_client_info": {
+          "package_name": "dev.vlab.booking_box"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456212219069-mhm3b5bs9nkse5oiq8m2uidncpgtqks9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwoCBGDYPzL-BWDNImb82rk3eqFCZGTNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456212219069-hamp438fc2dmrnr5au7tshiihkk6i5pl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456212219069-24em8197j4jjgdb7dblugoir0sm62tru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.xcashApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456212219069:android:e4ef8869b0102f4b9123d4",
+        "android_client_info": {
+          "package_name": "dev.vlab.boulpik_trading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456212219069-m50mhc2gbqteeqfd0pt5ilrb46676v6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.vlab.boulpik_trading",
+            "certificate_hash": "94bc7de12d2b186836b9cb9baf2c32a161d5a4fc"
+          }
+        },
+        {
+          "client_id": "456212219069-mhm3b5bs9nkse5oiq8m2uidncpgtqks9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwoCBGDYPzL-BWDNImb82rk3eqFCZGTNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456212219069-hamp438fc2dmrnr5au7tshiihkk6i5pl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456212219069-24em8197j4jjgdb7dblugoir0sm62tru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.xcashApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456212219069:android:376b4ff71cc762949123d4",
+        "android_client_info": {
+          "package_name": "dev.vlab.changalab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456212219069-mhm3b5bs9nkse5oiq8m2uidncpgtqks9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwoCBGDYPzL-BWDNImb82rk3eqFCZGTNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456212219069-hamp438fc2dmrnr5au7tshiihkk6i5pl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456212219069-24em8197j4jjgdb7dblugoir0sm62tru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.xcashApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456212219069:android:db2fb388b34fb1999123d4",
+        "android_client_info": {
+          "package_name": "dev.vlab.sales_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456212219069-mhm3b5bs9nkse5oiq8m2uidncpgtqks9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwoCBGDYPzL-BWDNImb82rk3eqFCZGTNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456212219069-hamp438fc2dmrnr5au7tshiihkk6i5pl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456212219069-24em8197j4jjgdb7dblugoir0sm62tru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.xcashApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456212219069:android:7aada81783cc39439123d4",
+        "android_client_info": {
+          "package_name": "dev.vlab.viser_hotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456212219069-7f15kcdrvqpaj4mppipupnq6tffspb7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.vlab.viser_hotel",
+            "certificate_hash": "94bc7de12d2b186836b9cb9baf2c32a161d5a4fc"
+          }
+        },
+        {
+          "client_id": "456212219069-mhm3b5bs9nkse5oiq8m2uidncpgtqks9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwoCBGDYPzL-BWDNImb82rk3eqFCZGTNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456212219069-hamp438fc2dmrnr5au7tshiihkk6i5pl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456212219069-24em8197j4jjgdb7dblugoir0sm62tru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.xcashApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456212219069:android:2cd0a0537ad3ac839123d4",
+        "android_client_info": {
+          "package_name": "dev.vlab.viser_remit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456212219069-mhm3b5bs9nkse5oiq8m2uidncpgtqks9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwoCBGDYPzL-BWDNImb82rk3eqFCZGTNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456212219069-hamp438fc2dmrnr5au7tshiihkk6i5pl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456212219069-24em8197j4jjgdb7dblugoir0sm62tru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.xcashApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456212219069:android:d5d6449194f873069123d4",
+        "android_client_info": {
+          "package_name": "dev.vlab.viser_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456212219069-13hgcj5e10b4j96am0usl5hm7fa2jcfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.vlab.viser_store",
+            "certificate_hash": "94bc7de12d2b186836b9cb9baf2c32a161d5a4fc"
+          }
+        },
+        {
+          "client_id": "456212219069-mhm3b5bs9nkse5oiq8m2uidncpgtqks9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwoCBGDYPzL-BWDNImb82rk3eqFCZGTNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456212219069-hamp438fc2dmrnr5au7tshiihkk6i5pl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456212219069-24em8197j4jjgdb7dblugoir0sm62tru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.xcashApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456212219069:android:68772a2911e77a069123d4",
+        "android_client_info": {
+          "package_name": "dev.vlab.viserpay_agent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456212219069-mhm3b5bs9nkse5oiq8m2uidncpgtqks9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwoCBGDYPzL-BWDNImb82rk3eqFCZGTNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456212219069-hamp438fc2dmrnr5au7tshiihkk6i5pl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456212219069-24em8197j4jjgdb7dblugoir0sm62tru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.xcashApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456212219069:android:916370dc2b37fd899123d4",
+        "android_client_info": {
+          "package_name": "dev.vlab.woocolab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456212219069-mhm3b5bs9nkse5oiq8m2uidncpgtqks9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwoCBGDYPzL-BWDNImb82rk3eqFCZGTNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456212219069-hamp438fc2dmrnr5au7tshiihkk6i5pl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456212219069-24em8197j4jjgdb7dblugoir0sm62tru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.xcashApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
